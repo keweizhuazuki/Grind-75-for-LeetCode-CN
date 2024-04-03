@@ -1,5 +1,8 @@
 # Grind-75-for-LeetCode-CN
 This is the LeetCode List for LeetCode CN
+一开始想刷Grind-75找不到题直接跳转的页面，想着一边刷一边整理出来！
+题库来自GRIND-75 点击题目即可跳转到LeetCode CN页面！
+点击序号可以看到我的Java题解！如有问题欢迎提出！
 #Grind-75题目整理 附JAVA代码+注释
 | 题号          | 名称                                                                                                                         |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -37,7 +40,7 @@ This is the LeetCode List for LeetCode CN
 | [133](#133)   | __[克隆图](https://leetcode.cn/problems/clone-graph)__                                                                       |
 | [150](#150)   | __[逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation)__                                        |
 | [207](#207)   | __[课程表](https://leetcode.cn/problems/course-schedule)__                                                                   |
-| [208](#208)   | __[实现 Trie (前缀树)](hhttps://leetcode.cn/problems/implement-trie-prefix-tree)__                                           |
+| [208](#208)   | __[实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree)__                                           |
 | [322](#322)   | __[零钱兑换](https://leetcode.cn/problems/coin-change)__                                                                     |
 | [238](#238)   | __[除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self)__                                        |
 | [155](#155)   | __[最小栈](https://leetcode.cn/problems/min-stack)__                                                                         |
